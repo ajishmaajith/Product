@@ -21,4 +21,5 @@ public class ProductApplication {
 	}
 
 	//adding my new code 
+	//adding null checks 
 }
